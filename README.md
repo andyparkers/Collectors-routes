@@ -44,7 +44,7 @@
 
 В качестве БД использовалась MySQL. Ниже приведено содержание таблицы.
 
-![Таблица](ссылка_на_картинку)
+![Таблица](https://github.com/andyparkers/Collectors-routes/blob/dev/pictures/table.png)
 
 ### Атрибуты таблицы:
 
@@ -57,21 +57,22 @@
 - Значение дисперсии расхода купюр за день;
 - Значение математического ожидания расхода купюр за день.
 ## Графический интерфейс пользователя
-
-![Кнопка запроса](ссылка_на_картинку_1)
+![GUI](https://github.com/andyparkers/Collectors-routes/blob/dev/pictures/gui.png)
+### Кнопка запроса
+![Кнопка запроса](https://github.com/andyparkers/Collectors-routes/blob/dev/pictures/3.png)
 
 Клиент может отправить запрос серверу на получение HTML-файлов для их дальнейшей отрисовки в GUI клиента, для этого нужно нажать кнопку.
-
-![Выбор дня моделирования](ссылка_на_картинку_2)
+### Выбор дня моделирования
+![Выбор дня моделирования](https://github.com/andyparkers/Collectors-routes/blob/dev/pictures/5.png)
 
 Также клиент может выбрать, карту какого дня моделирования он хочет увидеть, с помощью соответствующих элементов.
-
-![Заглушка](ссылка_на_картинку_3)
+### Заглушка
+![Заглушка](https://github.com/andyparkers/Collectors-routes/blob/dev/pictures/6.png)
 
 Если по какой-либо причине данных об N-ной карте у клиента нет, будет показана "заглушка".
 
 ## UML Sequence Diagram
 
-![UML Sequence Diagram](ссылка_на_картинку_4)
+![UML Sequence Diagram](https://github.com/andyparkers/Collectors-routes/blob/dev/pictures/7.png)
 
 
