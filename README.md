@@ -67,7 +67,7 @@
 
 Также клиент может выбрать, карту какого дня моделирования он хочет увидеть, с помощью соответствующих элементов.
 ### Заглушка
-![Заглушка](https://github.com/andyparkers/Collectors-routes/blob/dev/pictures/6.png)
+![6](https://github.com/andyparkers/Collectors-routes/assets/91272096/fc65e9d8-4b42-4ac3-8bb5-08750cad02c6)
 
 Если по какой-либо причине данных об N-ной карте у клиента нет, будет показана "заглушка".
 
